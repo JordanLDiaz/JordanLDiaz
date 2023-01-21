@@ -3,7 +3,7 @@ My name is Jordan Diaz. I am currently a student at Boise Codeworks, training to
 
 
 “It’s better to fail while striving for something wonderful, challenging, adventurous, and uncertain than to say, ‘I don’t want to try because I may not succeed completely.’”
-- JIMMY CARTER
+-- JIMMY CARTER
 
 <!--
 **JordanLDiaz/JordanLDiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
