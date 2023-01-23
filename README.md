@@ -16,6 +16,7 @@ My name is Jordan Diaz and I am currently a student at Boise Codeworks, training
 - 😻 Cats and 🦦 otters are my all time favorite animals. 
 - 🌱 I love to garden and would love to fill my home with plants.
 
+
 “It’s better to fail while striving for something wonderful, challenging, adventurous, and uncertain than to say, ‘I don’t want to try because I may not succeed completely.’”
 -- JIMMY CARTER
 
